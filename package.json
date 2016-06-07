@@ -1,0 +1,22 @@
+{
+  "name": "ignored-loader",
+  "version": "0.0.1",
+  "description": "ignore some modules for webpack",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "front-end",
+    "web",
+    "webpack",
+    "loader",
+    "building tool"
+  ],
+  "homepage": "",
+  "bugs": {
+      "url": ""
+  },
+  "author": "joeyguo",
+  "license": "MIT"
+}
